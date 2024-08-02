@@ -4,6 +4,8 @@ I'm a student at UT Austin studying applied math, computer science, and music. M
 Other info about me: I love studying languages and playing piano.
 Youtube: https://youtube.com/@julianfrank5321?si=mvXrQ9KIe3wqBWHW
 
+Check out some of my projects bellow
+
 <!--
 **MysticPianist/MysticPianist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
