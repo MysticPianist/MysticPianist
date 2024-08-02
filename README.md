@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to Julian Frank's Profile
  
-I'm a student at UT Austin studying applied math, computer science, and music. My current interests are numerical analysis, machine learning, and statistical modeling.
+I'm a student at UT Austin studying applied math, computer science, and music. My current interests are in numerical analysis, machine learning, and statistical modeling.
 Other info about me: I love studying languages and playing piano.
 Youtube: https://youtube.com/@julianfrank5321?si=mvXrQ9KIe3wqBWHW
 
